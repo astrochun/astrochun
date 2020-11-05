@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a research astronomer 🔭 by trade that builds Python software for data analysis, visualization, and for library services.
+
+[![Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrochun)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **astrochun/astrochun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
