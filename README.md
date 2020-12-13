@@ -1,6 +1,6 @@
 ### 👋
 
-I'm a research astrophysicist 🔭 by trade for twenty years.
+I'm a research astrophysicist 🔭 by trade for twenty years. My ORCID is [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4245--2318-green)](https://orcid.org/0000-0002-4245-2318)
 
 These days, I build Python software for data analysis, visualization, and for library services, such as research data publishing.
 More information can be found on my [GitHub page](https://astrochun.github.io).
