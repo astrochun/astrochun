@@ -7,9 +7,9 @@ I'm a research astrophysicist 🔭 by trade for twenty years.
 These days, I build Python software for data analysis, visualization, and for library services, such as research data publishing.
 More information can be found on my [GitHub page](https://astrochun.github.io).
 
-[![astrochun's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrochun&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![astrochun's GitHub stats](https://github-readme-stats-red-six.vercel.app/api?username=astrochun&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astrochun&exclude_repo=astrochun.github.io&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-red-six.vercel.app/api/top-langs/?username=astrochun&exclude_repo=astrochun.github.io&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **astrochun/astrochun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
