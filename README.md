@@ -1,12 +1,13 @@
-### 👋
+### 👋. I'm Chun!
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fastrochun)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4245--2318-green?logo=orcid)](https://orcid.org/0000-0002-4245-2318)
 
 I'm a research astrophysicist 🔭 by trade for twenty years.
 
 These days, I build Python software for data analysis, visualization, and for library services, such as research data publishing.
 
-Most recently I made this [webscraping tool](https://github.com/astrochun/voxcharta-my-voting-record) to extract voting records from [VoxCharta](https://voxcharta.org).
+Most recently I made this [webscraping tool](https://github.com/astrochun/voxcharta-my-voting-record) to extract voting records from [VoxCharta](https://voxcharta.org). I'm also working on a [Python tool](https://github.com/astrochun/academic-ads-bibtex) to properly handle BibTeX records for [my Hugo Academic site](https://astrochun.github.io)
 
 More information can be found on my [GitHub page](https://astrochun.github.io).
 
