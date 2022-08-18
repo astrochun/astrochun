@@ -1,6 +1,5 @@
 ### 👋. I'm Chun!
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fastrochun)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4245--2318-green?logo=orcid)](https://orcid.org/0000-0002-4245-2318)
 
 #### Background
